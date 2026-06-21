@@ -126,7 +126,7 @@ const proyectos = [
     emoji:'🏪',
     tecnologias:['React', 'Tailwind CSS', 'FastAPI', 'Python', 'Clean Architecture'],
     enlaceDemo:'#',
-    enlaceGithub:'https://github.com/TU_USUARIO/cruddrugstore',
+    enlaceGithub:'https://github.com/duartemaxigh-glitch/DrugStore.git',
   },
   {
   titulo:'Portafolio Personal',
@@ -135,7 +135,7 @@ const proyectos = [
     emoji:'💼',
     tecnologias:['HTML', 'CSS', 'JavaScript'],
     enlaceDemo:'#',
-    enlaceGithub:'https://github.com/TU_USUARIO/portfolio',
+    enlaceGithub:'https://github.com/duartemaxigh-glitch/Portfolio.git',
   },
   {
     titulo:'Copiloto financiero',
