@@ -124,7 +124,7 @@ const proyectos = [
     descripcion:'Sistema de gestión para farmacia. Administra productos, ventas, compras, clientes y proveedores con autenticación por roles (jefe / empleado). Actualmente en desarrollo',
     imagen:'img/crud_drugstore.png',
     emoji:'🏪',
-    tecnologias:['React', 'Tailwind CSS', 'FastAPI', 'Python', 'Clean Architecture'],
+    tecnologias:['React', 'FastAPI', 'Python', 'Clean Architecture'],
     enlaceDemo:'#',
     enlaceGithub:'https://github.com/duartemaxigh-glitch/DrugStore.git',
   },
